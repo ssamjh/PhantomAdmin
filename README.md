@@ -1,7 +1,7 @@
 Go beyond invisible - be undetectable and anonymous.
 Give your players that creepy feeling.
 
-![pa_banner.png](https://s28.postimg.org/jido5c6fx/pa_banner.png)
+![pa_banner.png](https://s28.postimg.cc/jido5c6fx/pa_banner.png)
 
 This plugin works very well for Minecraft 1.10, and some earlier versions are available for older versions of Minecraft. However, it will not be updated for future Minecraft versions because I've finally retired from Minecraft development (5 years of plugins!), and I'm moving on to develop indie games. :) You can follow me in my adventures here: 
 
